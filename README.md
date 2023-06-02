@@ -1,2 +1,2 @@
 # book.github.io
-learn something
+learn something every day
